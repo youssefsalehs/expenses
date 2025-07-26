@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/estate/static/css/main.c26503f7.css",
+    "main.js": "/estate/static/js/main.b51804ea.js",
+    "index.html": "/estate/index.html",
+    "main.c26503f7.css.map": "/estate/static/css/main.c26503f7.css.map",
+    "main.b51804ea.js.map": "/estate/static/js/main.b51804ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c26503f7.css",
+    "static/js/main.b51804ea.js"
+  ]
+}
